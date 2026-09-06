@@ -1,0 +1,8 @@
+{
+  "name": "MediKiosk — AI-Powered AYUSH Clinical History Platform",
+  "description": "Intelligent clinical history intake and standardized AYUSH assessment terminal for Ministry of AYUSH healthcare institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
